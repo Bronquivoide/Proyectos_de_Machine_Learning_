@@ -1,0 +1,201 @@
+Tamaño corporal (mm),Color principal,Número de ojos,Importancia Médica,Hábitat,Nivel de veneno (1-5),Frecuencia de encuentros con humanos (1-5),Especie,Patas con bandas de color,Estado de observación,Encontrada en rincón de casa,Forma del abdomen,Temperatura del lugar (°C),Número de Patas
+21.9,rojizo,8,No,desierto,4,3,Araña lobo,no,Yucatán,no,ovalado,36.9,8
+47.8,amarillo,8,No,bosque,3,2,Araña de jardin,Si,Baja California,no,redondo,34.9,8
+37.9,negro,6,Si,urbano,,5,Araña violinista,no,Baja California,no,triangular,19.5,8
+31.9,rojizo,,No,bosque,1,4,Tarántula,Si,Yucatán,no,triangular,38.6,6
+12,rojizo,8,No,bosque,4,4,Araña de jardin,Si,Oaxaca,no,ovalado,34.8,8
+12,amarillo,8,-,cueva,5,3,Araña de jardin,no,Nuevo León,no,triangular,30,8
+0,negro,6,Si,desierto,1,2,Araña violinista,no,Oaxaca,no,triangular,13.7,8
+44,negro,8,Si,rural,1,4,Viuda negra,Si,Oaxaca,Si,alargado,24.3,8
+-27.3,negro,6,Si,desierto,6,3,Araña violinista,no,CDMX,Si,alargado,25.2,8
+36.9,gris,8,No,desierto,3,5,Tarántula,Si,Guerrero,Si,ovalado,17,8
+5.9,-,8,No,bosque,2,,Araña de jardin,no,CDMX,Si,redondo,12.4,8
+48.6,marrón,6,Si,desierto,4,3,Araña violinista,no,Guerrero,Si,alargado,33.3,8
+42.5,negro,8,Si,urbano,2,3,Viuda negra,no,,no,redondo,13.7,7
+14.6,amarillo,6,-,bosque,5,1,Araña violinista,no,Puebla,Si,triangular,27.8,8
+13.2,gris,6,No,urbano,1,5,Araña lobo,Si,Guerrero,Si,alargado,38.1,8
+13.3,negro,8,Si,,1,1,Viuda negra,no,,Si,ovalado,36.3,8
+18.7,rojizo,8,No,bosque,4,2,Tarántula,Si,CDMX,Si,ovalado,18.3,8
+28.6,negro,8,No,rural,1,,Araña de jardin,Si,Nuevo León,Si,ovalado,35.5,8
+24.4,rojizo,6,Si,bosque,1,1,Araña violinista,no,Puebla,Si,alargado,10,
+18.1,negro,8,Si,cueva,4,4,Viuda negra,Si,Sonora,Si,redondo,10.5,8
+32.5,gris,6,No,desierto,4,3,Araña lobo,no,Guerrero,no,triangular,28.1,8
+11.3,negro,8,Si,cueva,5,5,Viuda negra,no,Sonora,no,redondo,20.9,8
+18.1,,8,No,rural,1,1,Araña tigre,no,Nuevo León,Si,redondo,21.6,8
+21.5,,8,No,desierto,1,5,Araña lobo,Si,Oaxaca,no,triangular,26.9,8
+25.5,negro,8,No,bosque,3,1,Tarántula,no,Baja California,no,triangular,15.8,8
+40.3,rojizo,8,No,desierto,3,2,Araña de jardin,Si,Nuevo León,no,alargado,16.4,8
+14,amarillo,8,No,urbano,3,1,Tarántula,no,Jalisco,no,alargado,24.5,8
+28.1,amarillo,6,Si,,3,4,Araña violinista,,Nuevo León,Si,alargado,32.6,8
+,negro,8,Si,urbano,5,3,Viuda negra,no,Sonora,no,alargado,28.6,8
+7.1,amarillo,8,No,desierto,1,2,Araña tigre,Si,Yucatán,no,alargado,18.9,8
+32.3,amarillo,8,-,urbano,5,1,Araña lobo,no,CDMX,no,triangular,22.9,8
+12.7,amarillo,8,No,rural,5,5,,no,Yucatán,Si,redondo,15.1,8
+7.9,negro,8,Si,cueva,3,2,Viuda negra,no,Sonora,Si,alargado,12.2,8
+47.7,gris,8,No,bosque,2,2,Araña tigre,no,CDMX,Si,alargado,33.5,
+48.5,negro,8,Si,desierto,1,1,Viuda negra,no,,Si,redondo,18,8
+41.4,rojizo,6,Si,cueva,3,2,Araña violinista,no,Baja California,Si,alargado,15.3,8
+18.7,negro,8,,bosque,2,5,Tarántula,Si,Puebla,Si,redondo,,8
+,gris,8,No,bosque,2,2,,Si,Sonora,Si,redondo,28.5,8
+35.8,rojizo,6,Si,urbano,,5,Araña violinista,no,Guerrero,no,triangular,29,8
+24.8,gris,8,No,rural,1,1,Tarántula,Si,Sonora,no,ovalado,16.9,8
+10.5,amarillo,6,Si,rural,2,3,,no,,no,triangular,17,8
+27.3,,8,No,cueva,3,2,Araña tigre,Si,CDMX,Si,ovalado,16.6,8
+6.5,amarillo,8,No,,4,3,Araña lobo,Si,Chiapas,Si,ovalado,15.2,8
+45.9,negro,8,,desierto,1,5,Viuda negra,no,Nuevo León,Si,ovalado,29.7,8
+16.6,negro,8,Si,rural,5,2,Viuda negra,no,Chiapas,,alargado,35.4,8
+34.8,rojizo,8,No,cueva,3,4,Tarántula,no,Jalisco,Si,triangular,31.7,8
+19,rojizo,8,No,rural,2,3,Araña de jardin,Si,Guerrero,,ovalado,33.8,8
+28.4,gris,8,No,desierto,2,2,Araña tigre,Si,Baja California,no,redondo,22.1,8
+29.6,gris,8,No,urbano,3,3,Tarántula,no,Oaxaca,Si,,29.6,8
+13.3,amarillo,8,No,cueva,2,2,Araña de jardin,no,Jalisco,,triangular,20.6,8
+48.6,rojizo,6,Si,urbano,4,1,Araña violinista,,Oaxaca,Si,ovalado,25.8,8
+39.9,negro,8,No,urbano,1,3,Araña tigre,no,Oaxaca,Si,redondo,,8
+47.3,,6,Si,urbano,4,4,,,Baja California,no,triangular,15.3,8
+45.3,,8,No,bosque,2,4,Araña lobo,no,Yucatán,Si,triangular,21.6,8
+31.9,negro,8,No,,,5,,no,Chiapas,Si,alargado,38.9,8
+46.5,gris,8,No,urbano,1,2,Araña de jardin,Si,Sonora,Si,,17.5,8
+9,amarillo,6,No,cueva,1,3,Araña lobo,Si,Puebla,Si,alargado,14,8
+13.8,azul,8,Si,desierto,3,5,Viuda negra,no,Oaxaca,no,ovalado,22.6,8
+7,negro,8,No,desierto,3,3,Araña de jardin,Si,Guerrero,Si,alargado,33.7,8
+19.6,rojizo,8,No,rural,5,2,Tarántula,Si,Jalisco,Si,redondo,27.5,8
+22.5,,8,Si,cueva,1,4,Viuda negra,Si,Yucatán,no,alargado,30.4,8
+17.2,negro,8,Si,bosque,,1,Viuda negra,no,Oaxaca,no,redondo,,8
+42.3,negro,8,No,urbano,3,4,Tarántula,no,Yucatán,no,alargado,28.6,8
+21.1,amarillo,8,No,rural,3,,Araña tigre,,Yucatán,Si,triangular,19.7,8
+17.6,negro,8,Si,desierto,1,1,Viuda negra,no,Oaxaca,Si,,35,
+29.4,negro,8,No,bosque,4,5,Araña de jardin,Si,CDMX,no,redondo,28.9,8
+11.3,,8,,bosque,2,2,,Si,Nuevo León,no,alargado,16,8
+41.1,negro,8,Si,urbano,3,1,Viuda negra,Si,Guerrero,no,alargado,11.9,8
+8.4,amarillo,8,No,desierto,3,,Araña de jardin,,Sonora,no,alargado,11.3,8
+49.4,marrón,6,Si,cueva,4,2,Araña violinista,no,Sonora,no,triangular,21.1,8
+39.8,marrón,8,No,bosque,4,4,Araña de jardin,no,Guerrero,no,triangular,18,8
+13.9,amarillo,8,No,urbano,5,,Araña lobo,no,CDMX,Si,redondo,29.4,8
+5.2,marrón,8,No,cueva,5,3,Araña de jardin,Si,,,redondo,25,8
+41.7,marrón,8,,desierto,2,2,,,Yucatán,Si,triangular,18,8
+36.8,marrón,6,No,bosque,2,2,Araña lobo,Si,Baja California,no,redondo,14.5,8
+37.8,-,,No,cueva,1,3,Araña tigre,no,Jalisco,no,ovalado,13.8,8
+39.7,negro,6,Si,,5,5,Araña violinista,no,Chiapas,no,ovalado,35.9,8
+8.3,negro,8,No,cueva,3,5,Tarántula,Si,Sonora,no,triangular,17.3,8
+21.1,amarillo,8,-,bosque,5,2,Araña tigre,Si,Guerrero,no,redondo,29.6,8
+10.2,gris,8,No,bosque,3,3,Araña de jardin,,Baja California,no,alargado,34.3,8
+43.8,marrón,8,No,rural,4,3,Araña lobo,no,Oaxaca,Si,ovalado,28.4,8
+33,marrón,6,Si,desierto,5,4,Araña violinista,no,Nuevo León,,triangular,35.8,8
+19.9,amarillo,8,No,urbano,4,5,Tarántula,no,Guerrero,no,redondo,21.8,8
+7.9,marrón,8,,cueva,2,1,Araña tigre,Si,Yucatán,Si,triangular,38.7,8
+19,negro,8,No,,2,5,Araña tigre,no,Nuevo León,,alargado,14,
+19.6,,6,Si,urbano,1,,Araña violinista,no,Jalisco,Si,ovalado,13.1,8
+37.8,rojizo,8,No,rural,5,4,,Si,Jalisco,no,triangular,29.8,8
+33.7,marrón,6,Si,bosque,4,1,Araña violinista,no,CDMX,no,triangular,38.3,8
+44.9,negro,8,No,cueva,3,4,Araña tigre,Si,Puebla,Si,triangular,34.3,8
+26.2,negro,8,Si,urbano,2,1,Viuda negra,no,CDMX,Si,alargado,,8
+10.4,gris,8,,urbano,2,,Tarántula,Si,Baja California,no,,18.4,8
+37.1,rojizo,6,Si,urbano,3,1,,no,,no,alargado,37.9,8
+39.2,negro,8,No,urbano,4,4,Araña tigre,Si,Puebla,Si,alargado,17.6,8
+30.3,rojizo,8,No,urbano,,5,Araña de jardin,no,Oaxaca,Si,alargado,33.4,8
+39.7,amarillo,8,No,rural,5,1,Araña tigre,Si,Yucatán,no,ovalado,34.8,8
+27.2,rojizo,8,No,cueva,5,1,Araña de jardin,no,Nuevo León,Si,ovalado,24.9,8
+28.5,marrón,6,Si,bosque,1,3,Araña violinista,no,CDMX,no,triangular,21.6,8
+24.2,marrón,8,No,bosque,2,5,Araña de jardin,Si,Chiapas,no,triangular,23.5,8
+6.1,amarillo,8,No,bosque,,,Araña lobo,Si,Puebla,no,,16.8,8
+,negro,8,No,bosque,4,4,Araña lobo,no,Puebla,no,redondo,36.7,8
+6.4,marrón,6,No,rural,3,2,Araña lobo,Si,Yucatán,Si,ovalado,23.5,8
+33.6,negro,8,Si,desierto,,5,Viuda negra,Si,Sonora,Si,alargado,36.5,8
+19.1,marrón,6,Si,cueva,2,1,Araña violinista,,Jalisco,,ovalado,13.2,8
+27.9,marrón,8,No,urbano,4,1,Araña tigre,no,Jalisco,Si,alargado,39.6,8
+45.8,,,No,,1,5,Araña tigre,Si,Chiapas,Si,triangular,23.3,8
+16.2,negro,8,Si,bosque,2,1,Viuda negra,no,Baja California,Si,redondo,11.4,8
+23.5,marrón,8,No,desierto,3,1,,Si,Baja California,Si,,11.1,
+39,,8,Si,cueva,1,1,Viuda negra,Si,Oaxaca,no,alargado,32.4,8
+15.3,rojizo,,No,urbano,2,4,Araña de jardin,Si,Nuevo León,Si,alargado,29.8,8
+8.5,gris,8,No,urbano,,4,Araña de jardin,no,Guerrero,Si,alargado,34.1,8
+18,negro,8,No,cueva,1,3,Tarántula,Si,Sonora,no,redondo,13.2,8
+,gris,8,No,cueva,1,2,Araña tigre,Mas o menos,CDMX,Si,ovalado,11.1,8
+46.8,rojizo,8,No,bosque,2,5,Araña lobo,Si,Guerrero,Si,triangular,25.3,8
+41.4,,8,No,urbano,5,,Araña de jardin,no,,no,triangular,21.6,8
+33.5,rojizo,8,No,desierto,1,5,Tarántula,no,,Si,ovalado,23.9,8
+44.2,gris,8,No,rural,1,3,Araña tigre,no,Chiapas,,triangular,39.7,8
+41.2,rojizo,8,No,rural,3,4,Araña lobo,no,Jalisco,Si,redondo,39.1,8
+13.4,gris,8,No,cueva,4,3,Araña de jardin,,Oaxaca,no,triangular,38.3,8
+45.2,rojizo,8,No,,2,5,Araña de jardin,Si,Baja California,,alargado,33.5,8
+29.3,negro,8,Si,rural,2,2,Viuda negra,no,Chiapas,Si,ovalado,20.6,8
+41.3,negro,8,Si,urbano,5,,Viuda negra,no,Puebla,no,redondo,22.4,8
+45.3,gris,8,No,cueva,5,4,Araña tigre,no,CDMX,Si,ovalado,26.5,8
+19.3,marrón,8,No,desierto,2,4,Araña lobo,Si,Oaxaca,no,,34.9,8
+10,rojizo,8,,cueva,5,3,Araña de jardin,no,,no,alargado,,8
+15.3,marrón,8,No,desierto,3,4,Araña tigre,no,Jalisco,Si,ovalado,22.7,8
+,amarillo,8,No,cueva,2,5,Araña tigre,Si,Jalisco,no,triangular,12.5,8
+41.8,negro,6,Si,cueva,5,5,Araña violinista,,,no,redondo,25.4,8
+43.7,negro,8,,cueva,,3,Viuda negra,no,Chiapas,Si,ovalado,37,
+5.3,,,No,desierto,4,5,Araña lobo,Si,Chiapas,no,triangular,33.5,8
+28,marrón,8,No,desierto,1,2,Araña de jardin,Si,Baja California,no,ovalado,16.8,8
+23.8,marrón,8,No,cueva,2,3,Araña tigre,Mas o menos,Baja California,Si,ovalado,39.3,8
+15,gris,8,No,rural,1,,Araña de jardin,Si,CDMX,Si,,30,8
+10.4,marrón,6,Si,bosque,5,1,Araña violinista,no,Oaxaca,Si,redondo,10.3,6
+20.2,gris,8,No,bosque,1,2,,Si,Yucatán,no,triangular,17.7,8
+47.4,negro,8,No,bosque,2,1,Araña tigre,Si,Yucatán,Si,alargado,17.8,8
+19.5,rojizo,8,No,desierto,4,1,Araña de jardin,,Puebla,no,redondo,12.1,8
+,negro,8,Si,desierto,5,2,Viuda negra,no,Jalisco,no,redondo,38.8,8
+36.6,negro,6,Si,rural,2,3,Araña violinista,no,Oaxaca,no,redondo,24.3,8
+21.4,marrón,8,No,bosque,5,5,Araña lobo,no,Guerrero,no,alargado,36.9,8
+48.7,marrón,,Si,bosque,3,5,Araña violinista,no,,no,triangular,19.7,8
+48.3,negro,8,Si,cueva,1,1,Viuda negra,no,Nuevo León,no,triangular,13.8,8
+16.3,marrón,8,No,desierto,3,1,Araña lobo,Si,Sonora,no,triangular,24.2,7
+27.4,negro,6,Si,bosque,2,3,Araña violinista,no,CDMX,Si,ovalado,13.4,8
+18.5,gris,8,No,rural,4,4,Tarántula,no,Jalisco,Si,ovalado,24.6,8
+17.8,negro,8,Si,rural,5,2,Viuda negra,no,Jalisco,no,ovalado,37.6,9
+6.7,negro,8,Si,bosque,1,1,Viuda negra,no,Jalisco,no,alargado,25.6,8
+32.4,negro,8,Si,desierto,5,5,Viuda negra,no,Chiapas,Si,ovalado,28.5,8
+,gris,8,No,rural,2,3,Tarántula,no,Chiapas,no,alargado,14.7,8
+7.3,gris,8,No,,5,2,Tarántula,no,Sonora,Si,triangular,,
+,amarillo,8,No,rural,1,3,Araña de jardin,Si,Guerrero,Si,ovalado,13.3,8
+45.9,rojizo,8,,urbano,2,2,Araña tigre,,Oaxaca,Si,ovalado,28,8
+,marrón,6,Si,urbano,5,2,Araña violinista,no,Jalisco,no,redondo,12.9,8
+11.5,amarillo,,No,desierto,4,1,Araña de jardin,Si,Yucatán,no,alargado,21.3,8
+27,gris,6,Si,bosque,2,3,Araña violinista,no,Baja California,Si,triangular,26.5,
+49.4,negro,,No,desierto,2,3,Araña tigre,no,Yucatán,Si,redondo,21.7,8
+15.9,gris,8,No,desierto,4,5,Tarántula,no,Puebla,Si,redondo,14.9,8
+35.2,rojizo,,,desierto,3,5,Araña tigre,no,Yucatán,Si,triangular,18.2,8
+39.3,gris,8,No,desierto,1,1,Tarántula,Si,Puebla,Si,,37.8,8
+15.7,negro,8,No,cueva,3,,Araña tigre,Si,Nuevo León,no,alargado,,8
+37.8,rojizo,8,No,cueva,5,4,Araña de jardin,Si,Baja California,Si,alargado,24.9,
+21.6,gris,8,No,rural,4,5,Araña lobo,no,Yucatán,no,ovalado,10.4,8
+33.5,rojizo,8,No,urbano,,2,Araña de jardin,Si,Nuevo León,Si,redondo,39.8,8
+33.5,marrón,6,Si,desierto,2,3,Araña violinista,no,,no,ovalado,30.1,8
+29.1,marrón,8,,rural,5,1,Araña de jardin,no,Oaxaca,no,redondo,19.5,8
+9.1,negro,8,Si,urbano,,3,Viuda negra,no,Nuevo León,no,alargado,36.4,8
+42.6,rojizo,6,Si,bosque,3,3,Araña violinista,no,Oaxaca,no,alargado,17.8,8
+19.4,negro,8,No,cueva,3,4,Araña tigre,Si,Yucatán,no,alargado,26.3,8
+13.4,gris,,Si,urbano,4,5,Araña violinista,no,Guerrero,no,redondo,29.1,8
+6.8,marrón,8,No,bosque,,1,Araña lobo,Si,Nuevo León,Si,alargado,16.6,
+31.6,marrón,8,No,,3,3,Tarántula,no,Baja California,no,redondo,39.4,8
+35.5,gris,8,No,cueva,3,1,Araña tigre,Si,Yucatán,Si,ovalado,32.4,8
+5.7,,6,Si,cueva,2,2,Araña violinista,no,Jalisco,no,redondo,26.7,8
+28,marrón,8,No,rural,5,4,Araña tigre,no,Chiapas,no,ovalado,15.4,8
+15.2,rojizo,8,No,desierto,,2,Araña tigre,Si,Nuevo León,Si,redondo,11.6,
+34,marrón,8,No,urbano,2,1,Araña tigre,no,Baja California,no,ovalado,19.6,8
+12.8,marrón,8,No,urbano,4,1,Tarántula,no,CDMX,Si,alargado,32.6,8
+36.1,amarillo,8,No,bosque,4,5,Araña de jardin,Si,Jalisco,Si,ovalado,18.1,8
+22.4,,8,No,cueva,3,3,Araña tigre,no,CDMX,Si,,,8
+47.2,negro,8,Si,urbano,3,3,Viuda negra,no,Yucatán,Si,alargado,31.8,8
+11.2,gris,8,No,cueva,4,2,Araña lobo,no,Chiapas,no,ovalado,13.2,8
+20.3,gris,8,No,urbano,3,4,Tarántula,Si,,no,redondo,30.6,8
+10.1,rojizo,6,Si,rural,1,3,Araña violinista,no,Nuevo León,Si,redondo,12.8,8
+46.6,marrón,8,No,desierto,3,5,,no,Guerrero,no,triangular,39,8
+44.5,negro,6,Si,urbano,5,2,Araña violinista,no,Guerrero,no,redondo,24.7,8
+16.6,rojizo,8,No,cueva,3,2,Tarántula,no,Yucatán,Si,triangular,14.5,8
+,amarillo,6,Si,rural,2,5,,no,Yucatán,no,redondo,20.3,8
+41.8,rojizo,8,No,urbano,1,4,Araña tigre,no,,Si,redondo,22.4,8
+30,,8,No,,2,5,Araña de jardin,Si,,Si,alargado,,8
+28.8,marrón,6,Si,desierto,2,4,Araña violinista,no,Baja California,no,triangular,32.3,8
+15.9,amarillo,6,Si,urbano,5,5,Araña violinista,no,Baja California,no,redondo,28.4,8
+9.2,negro,8,Si,rural,1,5,Viuda negra,no,Chiapas,,triangular,13.2,8
+45.4,negro,6,Si,,1,1,Araña violinista,no,Baja California,Si,alargado,14.5,8
+45.5,negro,8,Si,rural,1,2,Viuda negra,no,Puebla,Si,alargado,12.8,
+33.5,gris,8,,rural,1,5,Araña lobo,Si,Oaxaca,no,triangular,27.3,8
+20.3,amarillo,,No,bosque,,5,Araña tigre,Si,Chiapas,no,alargado,36.3,8
+20.7,negro,,Si,rural,5,3,Viuda negra,no,Chiapas,no,ovalado,23,8
+37.7,gris,8,,bosque,3,2,Araña de jardin,no,Sonora,no,ovalado,,8
+45.4,rojizo,8,,urbano,2,3,Araña tigre,Si,Jalisco,Si,alargado,26.7,8
+44.9,negro,8,Si,bosque,1,,Viuda negra,no,Jalisco,,,34.4,8
+40.1,negro,8,No,bosque,3,3,Araña tigre,no,Puebla,Si,redondo,32.3,8
