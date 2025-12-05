@@ -1,4 +1,4 @@
-# 📚Literatura recomendada📚
+# 📚Literatura consultada📚
 * Bishop, C. M. (2006). Pattern recognition and machine learning (1st ed., corr. 2nd printing). Springer; Springer Science+Business Media, LLC.
 
   
