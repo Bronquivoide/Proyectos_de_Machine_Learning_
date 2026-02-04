@@ -9,7 +9,7 @@
 * Aggarwal, C. C. (2023). Neural networks and deep learning: A textbook (2nd ed.). Springer.
 * Goodfellow, I., Bengio, Y., Courville, A. (2016). Deep learning. MIT Press.
 * Lazzeri, F. (2021). Machine learning for time series forecasting with Python. John Wiley & Sons.
-* * Carlin, B. P., & Louis, T. A. (2009). Bayesian methods for data analysis (3rd ed.). CRC Press.
+* Carlin, B. P., & Louis, T. A. (2009). Bayesian methods for data analysis (3rd ed.). CRC Press.
 * Abu-Mostafa, Y. S., Magdon-Ismail, M., & Lin, H.-T. (2012). Learning from data: A short course (1st ed.). AMLBook.com.
 * Grus, J. (2019). Data science from scratch: First principles with Python. O’Reilly Media.
 * Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O’Reilly Media.
